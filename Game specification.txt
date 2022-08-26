@@ -1,0 +1,5 @@
+Version: 2020.3.30
+
+Resolution: 800x600
+
+Build Scenes: SceneStart—0; ScenePlay—1; SceneEnd
